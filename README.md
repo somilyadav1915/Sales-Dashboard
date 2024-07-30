@@ -14,16 +14,23 @@ Correcting Inconsistencies: Fixing errors and discrepancies to maintain data rel
 ### Data Analysis : 
 Utilizing Excel’s powerful pivot table functionality, the project conducted an in-depth analysis of the dataset. Key insights uncovered include:
 
-Subcategory-Wise Sales Distribution: Analyzed sales performance across various subcategories to identify top-performing segments.
-Top 5 Profit-Driving Customers: Recognized the top 5 customers contributing the most to profits, facilitating targeted customer relationship management.
-Profitability by Category: Examined profitability across categories to highlight strengths and areas for improvement.
-Interactive Dashboard Features:
+# Subcategory-Wise Sales Distribution:
+Analyzed sales performance across various subcategories to identify top-performing segments.
+# Top 5 Profit-Driving Customers:
+Recognized the top 5 customers contributing the most to profits, facilitating targeted customer relationship management.
+# Profitability by Category:
+Examined profitability across categories to highlight strengths and areas for improvement.
+# Interactive Dashboard Features:
 The heart of this project lies in the creation of an interactive dashboard. By synthesizing complex data into clear visualizations using pivot tables and pivot charts, the dashboard features :
 
-Sales Trends Over Time: Visual representation of sales trends to identify patterns and seasonal fluctuations.
-Top Customers: Highlighting the top 5 customers by profit to aid in targeted marketing and retention strategies.
-Profit Analysis: Detailed category-wise profit analysis to understand which segments drive profitability.
-Dynamic Filtering: Interactive filters enabling users to explore data by different dimensions, such as category, subcategory, and customer.
+# Sales Trends Over Time:
+Visual representation of sales trends to identify patterns and seasonal fluctuations.
+# Top Customers:
+Highlighting the top 5 customers by profit to aid in targeted marketing and retention strategies.
+# Profit Analysis:
+Detailed category-wise profit analysis to understand which segments drive profitability.
+# Dynamic Filtering:
+Interactive filters enabling users to explore data by different dimensions, such as category, subcategory, and customer.
 ## Conclusion :
 This Sales Dashboard project demonstrates Excel’s capability in transforming raw data into actionable insights. The interactive dashboard enhances data accessibility, enabling stakeholders to make informed decisions by quickly identifying trends, outliers, and opportunities for growth.
 
